@@ -1,0 +1,10 @@
+.imghorse{
+    width: 80%;
+    height: 70%;
+}
+
+.equinos{
+   display: grid;
+   grid-template-columns: 20% 20% 20% 20% 20%;
+
+}
